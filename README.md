@@ -36,5 +36,6 @@ This project provides a comprehensive Docker setup tailored for Laravel applicat
    ```
 
 4. **Automated Migrations and Seeding**
+
     By default migrations are made, to remove this behaviour, add the environmental variable `MAKE_MIGRATIONS=false` to your `.env` file.
     To seed your data when the container starts, add the environmental variable `SEED_DATA=true` to your `.env` file. 
