@@ -14,7 +14,8 @@ This project provides a comprehensive Docker setup tailored for Laravel applicat
 
 ### Installation
 
-1. **Download the Repository an**
+1. **Download the Repository**
+
     Download the repo and copy over the files and folder to your project root
 
 
