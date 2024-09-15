@@ -10,7 +10,6 @@ This project provides a comprehensive Docker setup tailored for Laravel applicat
 ### Features
 
 - **Base Image**: Extends from `chialab/php:8.3-apache`, which includes all essential PHP extensions for Laravel,composer installed, ensuring compatibility and optimal performance.
-- **Apache with PHP-FPM**: Integrated web server and PHP-FPM configuration for better performance.
 - **Automated Data Seeding and Migrations**: Configured to run database migrations and seed data automatically when the container starts, eliminating the need to manually exec into the running container. This feature is designed to support deployment on platforms like AWS ECS and other container orchestration services.
 
 ### Installation
