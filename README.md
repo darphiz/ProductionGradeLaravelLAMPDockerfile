@@ -1,5 +1,5 @@
 
-## Production Grade Laravel Docker Setup
+## Single Container Laravel Docker Setup
 
 A robust, scalable, and production-ready Docker setup for Laravel applications, designed to simplify deployment, enhance performance, and ensure security.
 
